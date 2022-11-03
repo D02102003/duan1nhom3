@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_ao"
+        android:icon="@drawable/shirt"
+        android:title="Áo"/>
+    <item android:id="@+id/menu_quan"
+        android:icon="@drawable/pants"
+        android:title="Quần"/>
+    <item android:id="@+id/menu_phukien"
+        android:icon="@drawable/purse"
+        android:title="Phụ kiện"/>
+</menu>
